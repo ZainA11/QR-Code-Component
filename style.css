@@ -21,7 +21,7 @@ body{
     align-items: center;
     font-family: 'Outfit', sans-serif;
 }
-h3{
+h1{
     font-weight: 700;
     color: var(--darkBlue);
 }
@@ -36,7 +36,8 @@ p{
     padding: 1.4rem;
     background-color: white;
     max-width: 350px;
-    border-radius: 3%;
+    border-radius: 5%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 .code-image{
     position: relative;
